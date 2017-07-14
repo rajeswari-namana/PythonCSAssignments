@@ -9,3 +9,5 @@ Lab2 - https://github.com/rajeswari-namana/PythonCSAssignments/wiki/Lab-2
 Lab3 - https://github.com/rajeswari-namana/PythonCSAssignments/wiki/Lab-3
 
 Lab4 - https://github.com/rajeswari-namana/PythonCSAssignments/wiki/Lab-4
+
+Lab5 - https://github.com/rajeswari-namana/PythonCSAssignments/wiki/Lab-5
