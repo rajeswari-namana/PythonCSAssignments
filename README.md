@@ -15,3 +15,5 @@ Lab5 - https://github.com/rajeswari-namana/PythonCSAssignments/wiki/Lab-5
 Lab6 - https://github.com/rajeswari-namana/PythonCSAssignments/wiki/Lab-6
 
 Lab7 - https://github.com/rajeswari-namana/PythonCSAssignments/wiki/Lab-7
+
+ICE8 - https://github.com/rajeswari-namana/PythonCSAssignments/wiki/ICE8
